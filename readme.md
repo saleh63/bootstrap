@@ -7,14 +7,14 @@ Install node module package manager.
 git clone https://github.com/saleh63/bootstrap.git .
 <BR/>
 <strong> Get things ready </strong><BR/>
-in terminal run the folowing commands : <BR/>
+in terminal run the following commands : <BR/>
+npm install <BR/> 
+npm start <BR/>
+
+<strong>Course Summary</strong>
 <ul>
-<li>npm install </li>
 <li>npm install bootstrap@4.0.0 --save</li>
 <li>npm install jquery@3.3.1 popper.js@1.12.9 --save</li>
 <li>npm install font-awesome@4.7.0 --save</li>
 </ul>
-________________________________________________________________________________________________________
 
-<strong> Run </strong><BR/>
-npm start
