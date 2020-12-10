@@ -9,6 +9,7 @@ git clone https://github.com/saleh63/bootstrap.git .
 <strong> Get things ready </strong><BR/>
 in terminal run the following commands : <BR/>
 npm install <BR/> 
+npm install --save-dev parallelshell@3.0.1 <BR/>
 npm start <BR/>
 
 <strong>Course Summary</strong>
