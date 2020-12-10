@@ -6,7 +6,7 @@ Install node module package manager.
 <BR/>
 git clone https://github.com/saleh63/bootstrap.git .
 <BR/>
-<strong> Get things ready </strong>
+<strong> Get things ready </strong><BR/>
 in terminal run the folowing commands : <BR/>
 <ul>
 <li>npm install </li>
@@ -16,5 +16,5 @@ in terminal run the folowing commands : <BR/>
 </ul>
 ________________________________________________________________________________________________________
 
-<strong> Run </strong>
+<strong> Run </strong><BR/>
 npm start
